@@ -5,7 +5,10 @@
 
 
 🔗 **Visualizar Dashboard Online:**  
-👉 [Clique aqui para acessar o relatório](https://app.powerbi.com/view?r=eyJrIjoiOGQ1NjBhYmUtZTU2Yy00ZjlkLTliMDUtNDNmNjA1ODE1ZWIxIiwidCI6IjQ1YjMzMDdjLTBiODMtNDEwOC1iZTYzLWNmYmU4Y2E1YjQwNSJ9&pageName=ReportSection060c32e741a386344e70)
+
+👉 [Versão Dark ⬛ - Clique aqui para acessar o relatório](https://app.powerbi.com/view?r=eyJrIjoiOGQ1NjBhYmUtZTU2Yy00ZjlkLTliMDUtNDNmNjA1ODE1ZWIxIiwidCI6IjQ1YjMzMDdjLTBiODMtNDEwOC1iZTYzLWNmYmU4Y2E1YjQwNSJ9&pageName=ReportSection060c32e741a386344e70)
+
+👉 [Versão Purple 🟪 - Clique aqui para acessar o relatório](https://app.powerbi.com/view?r=eyJrIjoiNmY3ZWFhYjAtMTY4NS00ZmNlLWE0MDItNjMyOWY1Y2M2YjI3IiwidCI6IjQ1YjMzMDdjLTBiODMtNDEwOC1iZTYzLWNmYmU4Y2E1YjQwNSJ9&pageName=ReportSection060c32e741a386344e70)
 
 ---
 
