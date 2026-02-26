@@ -1,4 +1,4 @@
-📊 Dashboard de Performance Comercial
+# 📊 Dashboard de Performance Comercial
 
 <img width="1464" height="823" alt="image" src="https://github.com/user-attachments/assets/31563a5d-c7e2-4c68-8486-531d8708f56c" />
 
