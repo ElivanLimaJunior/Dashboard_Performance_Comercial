@@ -1,6 +1,11 @@
 # 📊 Dashboard de Performance Comercial
 
-![Capa do Projeto](https://link-para-uma-imagem-de-capa-do-seu-repositorio)
+<img width="1464" height="823" alt="image" src="https://github.com/user-attachments/assets/31563a5d-c7e2-4c68-8486-531d8708f56c" />
+
+
+
+🔗 **Visualizar Dashboard Online:**  
+👉 [Clique aqui para acessar o relatório](https://app.powerbi.com/view?r=eyJrIjoiOGQ1NjBhYmUtZTU2Yy00ZjlkLTliMDUtNDNmNjA1ODE1ZWIxIiwidCI6IjQ1YjMzMDdjLTBiODMtNDEwOC1iZTYzLWNmYmU4Y2E1YjQwNSJ9&pageName=ReportSection060c32e741a386344e70)
 
 ---
 
@@ -17,10 +22,10 @@ O objetivo foi construir uma solução completa de **Business Intelligence** par
 
 O resultado é um ecossistema de dashboards interativos que permite análise sob múltiplas perspectivas:
 
-- 📊 Visão Executiva  
-- 🌎 Análise Geográfica  
-- 👤 Performance por Vendedor  
-- 🔥 Mapa de Calor Temporal  
+- Visão Executiva  
+- Análise Geográfica  
+- Performance por Vendedor  
+- Mapa de Calor Temporal  
 
 ---
 
@@ -54,11 +59,9 @@ O resultado é um ecossistema de dashboards interativos que permite análise sob
 
 ### Indicadores Principais
 
-| Indicador | Valor | Variação vs Ano Anterior |
-|-----------|--------|--------------------------|
-| Faturamento | R$ 86,93 Mi | +72,04% |
-| Resultado | R$ 28,12 Mi | +67,64% |
-| Margem Média | 32,34% | -2,56% |
+- Faturamento
+- Resultado
+- Margem Média
 
 ### Análises Disponíveis
 
@@ -98,7 +101,6 @@ Análise temporal do faturamento:
 - Faturamento por dia da semana  
 - Evolução mensal (jan–dez)  
 - Comparativo YTD vs ano anterior  
-- Total acumulado: **R$ 1,17 Bi**
 
 ---
 
@@ -107,26 +109,14 @@ Análise temporal do faturamento:
 Acompanhamento individual de resultados:
 
 - Faturamento diário vs ano anterior  
-- Meta vs realizado (R$ 5,87 Mi)  
+- Meta vs realizado
 - Comissão diária  
 - Margem e Resultado  
 - Positivação de clientes  
 
 ---
 
-# 💡 Principais Insights
-
-| Insight | Observação |
-|----------|------------|
-| Maior margem | Poços de Caldas (43,84%) |
-| Menor margem | Contagem (15,05%) |
-| Ponto de atenção | Filial 7 (-15,39% faturamento) |
-| Sazonalidade | Padrões claros identificados no mapa de calor |
-| Destaque de gestão | Marta (32,57%) e Guardiola (28,32%) lideram |
-
----
-
-# 🚀 Resultados do Projeto
+# Resultados do Projeto
 
 - Transformação de dados brutos em inteligência estratégica  
 - Identificação de gargalos comerciais  
@@ -135,12 +125,11 @@ Acompanhamento individual de resultados:
 
 ---
 
-# 📚 Créditos
+# Créditos
 
-Projeto desenvolvido no curso **Dados Criativos**.
+Agradecimento especial ao professor Jefferson pela didática e abordagem prática aplicada ao desenvolvimento de dashboards.
 
-Agradecimento especial ao professor Jefferson pela didática e abordagem prática aplicada ao desenvolvimento de dashboards profissionais.
-
+Linkedin: https://www.linkedin.com/in/jeffersonallvesneves/
 ---
 
 > 💬 *Transformando dados em decisões estratégicas através da criatividade e técnica.*
