@@ -1,4 +1,4 @@
-# 📊 Dashboard de Performance Comercial
+📊 Dashboard de Performance Comercial
 
 <img width="1464" height="823" alt="image" src="https://github.com/user-attachments/assets/31563a5d-c7e2-4c68-8486-531d8708f56c" />
 
@@ -57,6 +57,9 @@ O resultado é um ecossistema de dashboards interativos que permite análise sob
 
 ## 1️⃣ Visão Geral (Executivo)
 
+<img width="1548" height="868" alt="image" src="https://github.com/user-attachments/assets/cbfc4210-8881-4a6a-ba49-879b8c5ccc87" />
+
+
 ### Indicadores Principais
 
 - Faturamento
@@ -73,6 +76,8 @@ O resultado é um ecossistema de dashboards interativos que permite análise sob
 ---
 
 ## 2️⃣ Acompanhamento Analítico
+
+<img width="1543" height="867" alt="image" src="https://github.com/user-attachments/assets/d0476432-cb88-4da5-86ce-e6eae8342593" />
 
 Tabela detalhada com **drill-down por estado e cidade**.
 
@@ -96,6 +101,8 @@ Tabela detalhada com **drill-down por estado e cidade**.
 
 ## 3️⃣ Mapa de Calor
 
+<img width="1547" height="868" alt="image" src="https://github.com/user-attachments/assets/e4d5f3c8-6b99-48bf-8736-db4d6f43e419" />
+
 Análise temporal do faturamento:
 
 - Faturamento por dia da semana  
@@ -105,6 +112,8 @@ Análise temporal do faturamento:
 ---
 
 ## 4️⃣ Performance por Vendedor
+
+<img width="1547" height="866" alt="image" src="https://github.com/user-attachments/assets/30fb51ec-2430-4042-aef4-9fb2b66b5cd7" />
 
 Acompanhamento individual de resultados:
 
